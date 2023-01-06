@@ -41,5 +41,47 @@ Information :
 
 Overview :
 ![Overview](https://user-images.githubusercontent.com/110882495/210262796-a22e850b-d1e1-41a0-b04d-9017a7836652.PNG)
-# ProjectChallenge
-# Weather_App
+
+
+## Getting Started
+
+This project was built using HTML/CSS and java Script. It is a web application and for running on your local environment you should follow these guidelines.
+
+### Setup
+
+
+The project repository can be found in [GitHub link](https://github.com/pathanadnan/Weather_app1) or just clone the project using this command. 
+
+
+```
+Using HTTPS
+
+# git clone  https://github.com/pathanadnan/Weather_app1.git
+```
+
++ Open terminal on your workspace with
+
+```
+cd /home/workspace/Weather-app1
+```
+
+### Tools used on this project
+
+- Visual Studio Code
+- in vscode exrensions install Rappid API.
+
+<br/>
+
+
+
+## Contact
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://www.linkedin.com/in/pathan-adnan-salimkhan-47429221b)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
