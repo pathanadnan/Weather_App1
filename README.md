@@ -1,7 +1,6 @@
-#      Weather App
+#      Weather Info
 
-![Overview](https://user-images.githubusercontent.com/110882495/210262796-a22e850b-d1e1-41a0-b04d-9017a7836652.PNG)
-
+![App Screenshot](https://github.com/pathanadnan/Weather_/blob/main/Screenshot%202023-12-03%20160237.png?raw=true)
 
 ## Description
 
@@ -33,17 +32,6 @@ Weather by API-Ninjas
 ◉ Download Rappid API from vs Extensions.
 
 ◉ Take Weather API from ninjas RappidApi.
-## Screenshots
-
-Files : 
-![App Screenshot](https://user-images.githubusercontent.com/110882495/210262707-2304bb25-7d07-4a67-b8db-3400d89e9c53.PNG)
-
-Information : 
-![Information](https://user-images.githubusercontent.com/110882495/210262776-7b58f60b-afcf-43ef-8a35-d8ac422a9a9c.PNG)
-
-Overview :
-![Overview](https://user-images.githubusercontent.com/110882495/210262796-a22e850b-d1e1-41a0-b04d-9017a7836652.PNG)
-
 
 ## Getting Started
 
@@ -78,7 +66,7 @@ cd /home/workspace/Weather-app1
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://www.linkedin.com/in/pathan-adnan-salimkhan-47429221b)
+[![linkedin](Linkedin)
 
 
 ## Show your support
